@@ -2,6 +2,7 @@
 // http://localhost:3000/isolated/exercise/02.js
 
 import React from 'react'
+// eslint-disable-next-line no-unused-vars
 import reactDomTestUtilsProductionMin from 'react-dom/cjs/react-dom-test-utils.production.min'
 import {
   fetchPokemon,
